@@ -28,4 +28,9 @@ make -j40 cc-clients
 
 # server
 
+## 地址
+
+[model-repo](https://github.com/sunjiabin17/tensorrtllm_backend/tree/dev-llama3/all_models/inflight_batcher_llm)
+
+> 需要将llama3的engine模型放到`all_models/inflight_batcher_llm/tensorrt_llm/1/`下
 
